@@ -16,9 +16,9 @@ Estrutura de pastas:
 
 ## Tarefa 1 sobre APIs de acesso
 
-> Coloque um link para o arquivo do notebook com a resolução da primeira tarefa (dois acessos). Ele estará dentro da pasta `notebook`.
+> [Notebook da Atividade](./noteboks/lab01-api.ipynb).
 
 ## Tarefa 2 sobre Engenharia Reversa
-> Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
+> [Nomes populares de bebês](https://data.cityofnewyork.us/Health/Popular-Baby-Names/25th-nujf) por sexo e grupo étnico nascidos em NY.
 >
-> ![Diagrama de Orquestração](images/diagrama-er.png)
+> ![Diagrama Conceitual Popular Baby Names](./imagens/mc_popular_baby_names.png)
