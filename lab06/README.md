@@ -22,9 +22,7 @@ Estrutura de pastas:
 
 ## Resumo
 
-> Resumo do artigo com as suas palavras (não deve ser copiado total ou parcialmente o resumo do artigo).
-
-No artigo os autores apresentam o PolRoute-DS, um dataset que combina a estrutura espacial da cidade de interesse - No momento apenas São Paulo - com índices criminais obtidos de fontes públicas. A combinação se dá através de um Grafo conexo, no qual os vértices são encontro de vias ou junções de segmentos de uma mesma via, os segmentos de vias são as arestas nas quais os índices criminais compoẽm seus pesos. O Grafo é apresentado em um banco de dados relacional que segue o modelo Data Mart com esquema floco-de-neve. A modelagem do PolRoute-DS é composta de 7 tabelas: Crime, Segmento, Vértice, Tempo, Distrito, Zona e Bairro. 
+No artigo os autores apresentam o PolRoute-DS, um dataset que combina a estrutura espacial da cidade de interesse - No momento apenas São Paulo - com índices criminais obtidos de fontes públicas. A combinação acontece através de um grafo conexo denominado pelos criadores como **Grafo de Crimes**, no qual os vértices são encontro de vias ou junções de segmentos de uma mesma via e os segmentos de vias são as arestas, nas quais os índices criminais compoẽm seus pesos. O grafo é apresentado em um banco de dados relacional, que segue o modelo Data Mart com esquema floco-de-neve. A modelagem do PolRoute-DS é composta de 7 tabelas: Crime, Segmento, Vértice, Tempo, Distrito, Zona e Bairro. 
 
 O objetivo do PolRoute-DS é viabilizar o desenvolvimento de testes de abordagens de gerações de rotas policiais em centros urbanos.
 
@@ -32,12 +30,17 @@ O dados do PolRoute-DS estão sobre a licença *Creative Commons* e podem ser ob
 
 ![grafo MASP](./images/masp.png)
 
+<p style="text-align: center;"> 
+<b>Figura 1:</b> Exemplo de um grafo gerado na região em torno do Museu de Arte de São Paulo (MASP) 
+</p>
+
 ![Modelo Lógico PolRoute-DS](./images/Modelo_logico_dataset.png)
 
+<p style="text-align: center;"> 
+<b>Figura 2:</b> Modelo Lógico do PolRoute-DS
+</p>
 
 ## Perguntas de pesquisa/análises
-
-> Escreva de forma resumida que perguntas de pesquisa/análises podem ser feitas com o dataset.
 
 1) Com esse Dataset é possível analisar a variação granularidade de incidentes criminais no tempo, em diferentes zonas de uma cidade. Com isso, é possível determinar períodos do ano com maior ocorrência de crimes em uma determinada região.
 
@@ -46,8 +49,6 @@ O dados do PolRoute-DS estão sobre a licença *Creative Commons* e podem ser ob
 3) Utilizando o PolRoute-DS é possível verificar se as estratégias de policiamento adotadas em uma cidade são efetivas, pois é possível comparar os índices criminais de uma certa zona da cidade em diferentes períodos de tempo.
 
 ## Trabalhos relacionados
-
-> Relacione outras iniciativas relacionadas com a do artigo que tenham sido mencionadas no mesmo.
 
 * **Crime data warehousing and crime pattern discovery** (Yoo 2019):
 	- Descreve como materializar em um único banco de dados, informações espaciais e de ocorrências criminais que podem ser úteis para construir soluções de combate a violência.
