@@ -19,7 +19,7 @@ Estrutura de pastas:
 
 * Qual Plataforma de Streamming oferece o melhor custo-benefício em relação a quantidade e qualidade (boa avaliação) dos filmes disponíveis no seu catalogo versus o preço da sua assinatura?
 
-* Qual a média de avaliações de filmes dirigidos pelo Diretor X ou protagonizados pelo Ator Y?
+* Qual a média de avaliações realizadas pela Classificação A de filmes dirigidos pelo Diretor X ou protagonizados pelo Ator Y?
 
 * Qual Franquia ou Universo cinematografico, faturou mais com bilheterias até o atual momento?
 
