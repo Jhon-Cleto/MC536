@@ -17,7 +17,7 @@ Estrutura de pastas:
 
 ## Perguntas de Pesquisa/análise
 
-* Qual Plataforma de Streamming oferece o melhor custo-benefício em relação a quantidade e qualidade (boa avaliação) dos filmes disponíveis no seu catalogo versus o preço da sua assinatura?
+* Qual Plataforma de Streaming oferece o melhor custo-benefício em relação a quantidade e qualidade (boa avaliação) dos filmes disponíveis no seu catalogo versus o preço da sua assinatura?
 
 * Qual a média de avaliações realizadas pela Classificação A de filmes dirigidos pelo Diretor X ou protagonizados pelo Ator Y?
 
