@@ -20,4 +20,4 @@ Utilizando as informações sobre a indústria cinematográfica contidas no Data
 
 * Qual é o gênero com maior quantidade de filmes na plataforma de streaming X?
 
-* Qual é o gênero com maior quantidade de filmes na plataforma de streaming X?
+* A pessoa X já participou de algum filme do universo cinematográfico Y?
