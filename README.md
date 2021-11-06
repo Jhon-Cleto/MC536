@@ -12,3 +12,4 @@ Repositório com os Laboratórios da Disciplina de Banco de Dados
 * [Laboratório 5](lab05/)
 * [Laboratório 6](lab06/)
 * [Laboratório 7](lab07/)
+* [Laboratório 9](lab09/)
