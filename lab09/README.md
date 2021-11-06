@@ -7,10 +7,10 @@
 
 Utilizando as informações sobre a indústria cinematográfica contidas no Dataset, podemos montar um grafo de conhecimento, transformando as entidades do contexto em recursos e suas relações em propriedades que associam esses recursos.
 
-#### Grafo de Conhecimento com classes
+### Grafo de Conhecimento com classes
 ![Modelo Lógico de Grafos](images/grafo_conhecimento_classes.png)
 
-#### Exemplo de Grafo de Conhecimento 
+### Exemplo de Grafo de Conhecimento 
 ![Modelo Lógico de Grafos](images/grafo_conhecimento_exemplo.png)
 
 
